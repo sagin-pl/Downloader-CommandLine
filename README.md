@@ -1,5 +1,5 @@
 # Downloader-CommandLine
-[![Release](https://img.shields.io/github/v/release/sagin-pl/Downloader-CommandLine)](https://github.com/sagin-pl/Downloader-CommandLine/releases)
+[![Release](https://img.shields.io/badge/alpha-Alpha--v0.1-blue)](https://github.com/sagin-pl/Downloader-CommandLine/releases)
 [![Project](https://img.shields.io/badge/project-SAGIN--PL-green)](https://github.com/sagin-pl)
 
 Narzędzie uruchamiane w wierszu poleceń lub terminalu służące do pobierania filmów/zdjęć z platform takich jak Tiktok, Instagram, Youtube.
